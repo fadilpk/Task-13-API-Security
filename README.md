@@ -1,6 +1,6 @@
 # Task 13: API Security Testing & Validation
 
-**Intern Name:** Mohammed Fadil PK
+**Name:** Mohammed Fadil PK
 **Date:** February 6, 2026
 
 ## 📄 Project Description
